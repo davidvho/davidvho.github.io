@@ -1,8 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-24T20:59:34-05:00</updated><id>http://localhost:4000/</id><title type="html">David V Ho</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Oregon Coast</title><link href="http://localhost:4000/oregon_coast/" rel="alternate" type="text/html" title="Oregon Coast" /><published>2018-01-01T00:00:00-06:00</published><updated>2018-01-01T00:00:00-06:00</updated><id>http://localhost:4000/oregon_coast</id><content type="html" xml:base="http://localhost:4000/oregon_coast/">&lt;img src=&quot;/files/images/high_meadow.JPG&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-24T22:11:02-05:00</updated><id>http://localhost:4000/</id><title type="html">David V Ho</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Oregon Coast</title><link href="http://localhost:4000/oregon_coast/" rel="alternate" type="text/html" title="Oregon Coast" /><published>2018-01-01T00:00:00-06:00</published><updated>2018-01-01T00:00:00-06:00</updated><id>http://localhost:4000/oregon_coast</id><content type="html" xml:base="http://localhost:4000/oregon_coast/">&lt;img src=&quot;/files/images/high_meadow.JPG&quot;&gt;
+&lt;br&gt;
 &lt;br&gt;
 &lt;div align=&quot;center&quot;&gt;
-  High Meadow
-&lt;/div&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">High Meadow</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+  High Meadow, Lincoln City
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&quot;/files/images/eye.JPG&quot;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;
+  Westwind
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&quot;/files/images/cascade_head.JPG&quot;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;
+  Cascade Head
+&lt;/div&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">High Meadow, Lincoln City</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-06:00</published><updated>2016-02-24T22:48:00-06:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -340,4 +361,32 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Vietnam</title><link href="http://localhost:4000/vietnam/" rel="alternate" type="text/html" title="Vietnam" /><published>2016-01-24T00:00:00-06:00</published><updated>2016-01-24T00:00:00-06:00</updated><id>http://localhost:4000/vietnam</id><content type="html" xml:base="http://localhost:4000/vietnam/">Ha Long Bay</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Ha Long Bay</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Vietnam</title><link href="http://localhost:4000/vietnam/" rel="alternate" type="text/html" title="Vietnam" /><published>2016-01-24T00:00:00-06:00</published><updated>2016-01-24T00:00:00-06:00</updated><id>http://localhost:4000/vietnam</id><content type="html" xml:base="http://localhost:4000/vietnam/">Ha Long Bay</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Ha Long Bay</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Guatemala</title><link href="http://localhost:4000/guatemala/" rel="alternate" type="text/html" title="Guatemala" /><published>2006-01-01T00:00:00-06:00</published><updated>2006-01-01T00:00:00-06:00</updated><id>http://localhost:4000/guatemala</id><content type="html" xml:base="http://localhost:4000/guatemala/">&lt;img src=&quot;/files/images/guatemala/fuego.JPG&quot;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;
+  Volcan Fuego
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&quot;/files/images/guatemala/running.JPG&quot;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;
+  Running down Acatenango
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&quot;/files/images/guatemala/antigua.JPG&quot;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;
+  Antigua
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Volcan Fuego</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
