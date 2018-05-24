@@ -9,6 +9,7 @@ layout: page
 ...but I currently reside in <b><font color="#4682B4">Kansas City, MO</font></b>.
 <br><br>I like plants, <b><font color="#4682B4">microbes</font></b>, and challenges.
 <br><br>I am a master's student at the University of Oregon, earning my degree in <b><font color="#4682B4">bioinformatics</font></b>. 
+<br><br>I am looking for <b><font color="#4682B4">PhD</font></b> positions in microbial ecology and soil-plant-microbe interactions.
 <br><br>In addition to computational skills, I have experience in wet lab and field <b><font color="#4682B4">research</font></b>.
 <br><br>I have a strong background in <b><font color="#4682B4">education</font></b>, <b><font color="#4682B4">management</font></b>, and <b><font color="#4682B4">leadership development</font></b>. 
 <br><br>I work in the <b><font color="#4682B4"><a href="http://baumannlab.org/">Baumann lab</a></font></b>, analyzing big data on whiptail lizards and fission yeast.
